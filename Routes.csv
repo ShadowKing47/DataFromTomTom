@@ -1,0 +1,19 @@
+Distance (km),Travel Time (min),Traffic Delay (min),From,To
+14.698,28.5,0.0,ISBT Maharana Pratap Bus (T),ISBT Ring Road
+11.663,17.983333333333334,0.0,ISBT Ring Road,Metro Train Depot
+48.879,69.63333333333334,0.0,Metro Train Depot,Shyam Giri Mandir
+49.185,72.55,0.0,Shyam Giri Mandir,Shastri Park
+44.522,67.51666666666667,0.0,Shastri Park,Dharampura
+7.882,18.683333333333334,0.0,Dharampura,Seelampur Metro Station
+9.999,22.7,0.0,Welcome Metro Station,Kanti Nagar Extension
+29.412,57.06666666666667,0.0,Kanti Nagar Extension,Jharkhandi
+1.019,6.066666666666666,0.0,Jharkhandi,East Azad Nagar
+26.721,47.31666666666667,0.0,East Azad Nagar,Swarn Cinema
+31.553,53.13333333333333,0.0,Swarn Cinema,Krishna Nagar A Block
+13.744,26.183333333333334,0.0,Krishna Nagar A Block,Hans Apartment
+17.32,33.166666666666664,0.0,Hans Apartment,Arjun Nagar
+0.668,5.45,0.0,Arjun Nagar,Radheypuri
+7.782,20.733333333333334,0.0,Radheypuri,Jagat Puri A-Block
+0.149,1.0333333333333334,0.0,Jagat Puri A-Block,Jagatpuri F-Block
+22.975,36.4,0.0,Jagatpuri F-Block,Hasan Pur Depot (Patparganj Depot)
+24.038,48.06666666666667,0.0,Hasan Pur Depot (Patparganj Depot),Hassanpur Village
